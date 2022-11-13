@@ -13,7 +13,7 @@ Follow these instructions to work with it:
 
  * Fetch any changes to it: 
  
-        git fetch upstream
+        git fetch upstream.   mnbm
  
  * Checkout the local master branch of your fork: 
  
